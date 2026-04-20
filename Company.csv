@@ -1,0 +1,1001 @@
+Company_ID ,Company_Name ,Country,Sector
+1,Feednation,Brazil,Consumer Non-Durables
+2,Twitterwire,Brazil,Consumer Services
+3,Voonyx,Brazil,n/a
+4,Eimbee,Malaysia,n/a
+5,Zoombox,France,Technology
+6,Gabcube,France,Consumer Services
+7,Realcube,Canada,Basic Industries
+8,Meeveo,Argentina,Transportation
+9,Bluezoom,Brazil,Technology
+10,Centidel,Malaysia,Health Care
+11,Yodo,Russia,Health Care
+12,Camido,Russia,Finance
+13,Skippad,Portugal,Miscellaneous
+14,Kayveo,Mexico,Consumer Services
+15,Janyx,Brazil,Energy
+16,Janyx,Mexico,Consumer Services
+17,Eire,France,n/a
+18,Trudoo,Kenya,n/a
+19,Midel,Argentina,Finance
+20,Mynte,Russia,n/a
+21,Trudeo,Portugal,Finance
+22,Twitterlist,Mexico,Capital Goods
+23,Twimbo,Sweden,n/a
+24,Pixonyx,United States,Finance
+25,Bubblebox,Sweden,Energy
+26,Jamia,Bahamas,Health Care
+27,Topiczoom,Canada,Technology
+28,Feedmix,Russia,Consumer Services
+29,Wordtune,Brazil,n/a
+30,Thoughtstorm,Russia,Health Care
+31,Edgetag,Portugal,Finance
+32,Wordify,Sweden,Technology
+33,Mydo,Portugal,Finance
+34,Abata,Japan,Consumer Services
+35,Aimbu,France,Public Utilities
+36,Ozu,Russia,Consumer Services
+37,Skilith,Russia,Consumer Services
+38,Dynabox,Japan,Public Utilities
+39,Gigazoom,Russia,Consumer Durables
+40,Aivee,Sweden,n/a
+41,Pixonyx,Brazil,Energy
+42,Skippad,Portugal,Capital Goods
+43,Devify,Brazil,n/a
+44,Divavu,United States,Consumer Non-Durables
+45,Aimbu,Argentina,Transportation
+46,Yadel,United States,Technology
+47,Photobug,Sweden,n/a
+48,Yakidoo,Brazil,Capital Goods
+49,Voonte,Russia,Finance
+50,Quinu,Russia,Health Care
+51,Yabox,Brazil,n/a
+52,Talane,Russia,Miscellaneous
+53,Skimia,United States,n/a
+54,Skidoo,Russia,Consumer Services
+55,Demizz,Brazil,Consumer Durables
+56,Mymm,Argentina,n/a
+57,Skyvu,Argentina,Consumer Services
+58,Zoozzy,Russia,n/a
+59,Thoughtbeat,France,Energy
+60,Zoonder,Canada,Miscellaneous
+61,Skippad,Russia,Capital Goods
+62,Riffpedia,Russia,Consumer Non-Durables
+63,Izio,Canada,n/a
+64,Rhyzio,Portugal,Consumer Services
+65,Avavee,Japan,Health Care
+66,Fanoodle,Portugal,Basic Industries
+67,Quaxo,France,Consumer Services
+68,Tagcat,Russia,Finance
+69,Photobean,Malaysia,Health Care
+70,Roombo,Brazil,Capital Goods
+71,Voolia,Russia,Consumer Services
+72,Buzzshare,Russia,Consumer Services
+73,Trudoo,France,Basic Industries
+74,Edgetag,United States,Finance
+75,Dablist,Brazil,Public Utilities
+76,Zooveo,Russia,Public Utilities
+77,DabZ,Brazil,n/a
+78,Trupe,France,Public Utilities
+79,Realbridge,France,n/a
+80,Skippad,Argentina,Public Utilities
+81,Quinu,Portugal,Health Care
+82,Youspan,United Kingdom,Capital Goods
+83,Browsetype,Sweden,Health Care
+84,Jabbercube,Brazil,Finance
+85,Twitterwire,Brazil,Consumer Services
+86,Flashdog,Brazil,Technology
+87,Kwideo,United States,n/a
+88,Centizu,Norway,Public Utilities
+89,Muxo,Norway,n/a
+90,Leexo,Argentina,n/a
+91,Meedoo,Argentina,n/a
+92,Tazzy,Portugal,Finance
+93,Mymm,Russia,Energy
+94,Lajo,Kenya,n/a
+95,Pixonyx,Japan,Miscellaneous
+96,Abata,Brazil,Health Care
+97,Oyoyo,France,Finance
+98,Jaxspan,France,Health Care
+99,Centizu,Brazil,Finance
+100,Realbuzz,Japan,Finance
+101,Plajo,Mexico,n/a
+102,Voonyx,United States,Consumer Services
+103,Gabtype,United States,n/a
+104,Jabbersphere,Denmark,Technology
+105,Miboo,Portugal,n/a
+106,Skimia,United States,Technology
+107,Skinix,Russia,n/a
+108,Zoombeat,Brazil,Consumer Services
+109,BlogXS,Portugal,Health Care
+110,Devpoint,France,Technology
+111,Teklist,Russia,Finance
+112,Tagpad,Russia,Capital Goods
+113,Photobug,United States,n/a
+114,Jabberstorm,Portugal,Technology
+115,Flashpoint,Sweden,Technology
+116,Kazio,Argentina,Transportation
+117,Devbug,Brazil,Finance
+118,Babblestorm,Sweden,Public Utilities
+119,Youspan,Argentina,Consumer Services
+120,Youbridge,Brazil,Transportation
+121,Tagcat,Russia,Finance
+122,Linklinks,Portugal,Finance
+123,Feedmix,Brazil,n/a
+124,Mybuzz,Russia,Consumer Non-Durables
+125,Thoughtbridge,Russia,n/a
+126,Gabvine,Australia,Energy
+127,Zoonoodle,United States,Public Utilities
+128,Edgeclub,Brazil,Health Care
+129,Quatz,Brazil,Energy
+130,Kimia,Argentina,Consumer Durables
+131,Avaveo,Canada,n/a
+132,Browseblab,Mexico,Capital Goods
+133,Skinder,Canada,Capital Goods
+134,Divape,Brazil,n/a
+135,Kwilith,Canada,n/a
+136,Eamia,Portugal,n/a
+137,Brightdog,Russia,Public Utilities
+138,Riffpedia,United States,Consumer Non-Durables
+139,Twimbo,United States,Technology
+140,Eabox,Netherlands,Public Utilities
+141,Rhycero,Brazil,Finance
+142,Fatz,Saudi Arabia,Energy
+143,Flashdog,Japan,n/a
+144,Wikibox,Sweden,Basic Industries
+145,Yotz,United States,n/a
+146,Kayveo,Portugal,n/a
+147,Cogidoo,Brazil,Energy
+148,Chatterpoint,Brazil,Capital Goods
+149,Devpoint,Portugal,Consumer Services
+150,Fiveclub,Denmark,Miscellaneous
+151,Devshare,Russia,Health Care
+152,Jetpulse,Argentina,Health Care
+153,Gabvine,France,n/a
+154,Wordtune,Brazil,n/a
+155,Voonder,Malaysia,Health Care
+156,Photobean,Portugal,Consumer Services
+157,Leexo,Brazil,Finance
+158,Babbleopia,Malaysia,n/a
+159,Wikizz,Russia,Finance
+160,Jayo,Brazil,Finance
+161,Mydo,Portugal,n/a
+162,Meeveo,Netherlands,n/a
+163,Thoughtworks,Mexico,Finance
+164,Linklinks,Brazil,Consumer Services
+165,Vipe,Russia,Health Care
+166,Twitterbridge,Russia,Finance
+167,Thoughtmix,Mexico,Health Care
+168,Skinte,Mexico,Health Care
+169,Skimia,Japan,n/a
+170,Tazz,France,n/a
+171,Twimm,Sweden,Technology
+172,Janyx,Mexico,Finance
+173,Jamia,Sweden,Energy
+174,Lazzy,Canada,Health Care
+175,Thoughtmix,Sweden,Health Care
+176,Browseblab,Portugal,n/a
+177,Dynava,France,Capital Goods
+178,Quatz,Russia,Capital Goods
+179,Photobug,Russia,Miscellaneous
+180,Voonder,Sweden,Capital Goods
+181,Rooxo,Sweden,n/a
+182,Realcube,Sweden,Health Care
+183,Zoombeat,France,n/a
+184,Bubblebox,Canada,Consumer Services
+185,Skipstorm,United States,Consumer Services
+186,Kwinu,Sweden,Technology
+187,Zoozzy,Mexico,Energy
+188,Gabtype,Brazil,Consumer Services
+189,BlogXS,Sweden,Consumer Services
+190,Trudoo,Norway,Consumer Services
+191,Voonyx,Portugal,n/a
+192,Trilia,Japan,Public Utilities
+193,Yata,Brazil,Capital Goods
+194,Fanoodle,Russia,Public Utilities
+195,Skimia,France,Finance
+196,Rhyzio,Kenya,Capital Goods
+197,Bubblemix,Malaysia,Energy
+198,Feednation,Norway,Technology
+199,Youspan,Sweden,n/a
+200,Brainverse,Japan,Capital Goods
+201,Ntags,Brazil,Finance
+202,Eayo,France,Finance
+203,Wikizz,Canada,Health Care
+204,Bubblebox,Russia,n/a
+205,Jabbersphere,Norway,Energy
+206,Realcube,Brazil,Consumer Services
+207,Kwinu,Portugal,Health Care
+208,Camimbo,Brazil,n/a
+209,Zoonder,Japan,n/a
+210,Cogibox,Sweden,Consumer Services
+211,Eidel,Russia,Energy
+212,Youspan,Russia,Basic Industries
+213,Zoomlounge,Mexico,Finance
+214,Camido,Brazil,Consumer Services
+215,Fanoodle,France,Miscellaneous
+216,Flashset,France,Consumer Durables
+217,Dynabox,Argentina,Finance
+218,Skimia,Sweden,Technology
+219,Wikivu,United States,n/a
+220,Realmix,Brazil,Energy
+221,Quamba,Russia,Technology
+222,Skippad,Canada,n/a
+223,Teklist,Sweden,Finance
+224,Cogilith,Brazil,Public Utilities
+225,Skimia,Brazil,Finance
+226,Mydeo,Canada,Health Care
+227,Gabcube,Portugal,n/a
+228,Tazzy,United Kingdom,Health Care
+229,Meembee,Brazil,Finance
+230,LiveZ,United States,Technology
+231,Eimbee,Portugal,Consumer Non-Durables
+232,Blogtag,Portugal,Finance
+233,Browseblab,Portugal,Technology
+234,Devpoint,Brazil,Transportation
+235,Feedfire,Portugal,Finance
+236,Trunyx,Norway,n/a
+237,Zoomcast,Japan,Finance
+238,Kwilith,Argentina,Finance
+239,Devshare,United States,Health Care
+240,Muxo,United States,n/a
+241,Jabbercube,Russia,Public Utilities
+242,Divape,Russia,Technology
+243,Vimbo,Mexico,Finance
+244,Chatterpoint,Portugal,Health Care
+245,Bluejam,Russia,Consumer Services
+246,Edgeblab,Mexico,Capital Goods
+247,Thoughtstorm,Sweden,Energy
+248,Eadel,Mexico,Finance
+249,Chatterpoint,Russia,Consumer Services
+250,Jabberstorm,Brazil,Consumer Services
+251,Tazz,Russia,Finance
+252,Youopia,Mexico,Finance
+253,Quamba,Brazil,n/a
+254,Oyoba,Russia,Public Utilities
+255,Yakidoo,Mexico,n/a
+256,Jatri,Kenya,Consumer Services
+257,Fivechat,Russia,n/a
+258,Youfeed,Brazil,Consumer Services
+259,Wordtune,France,Technology
+260,Yotz,Brazil,Transportation
+261,Yambee,France,Capital Goods
+262,Myworks,Norway,n/a
+263,Jaxspan,Argentina,n/a
+264,Quamba,Portugal,Capital Goods
+265,Miboo,Russia,Miscellaneous
+266,Eadel,Sweden,Technology
+267,Divanoodle,Canada,n/a
+268,Voonix,Argentina,Finance
+269,Thoughtmix,Sweden,Finance
+270,Ozu,Portugal,Consumer Services
+271,Omba,Sweden,n/a
+272,Jaxbean,Russia,Technology
+273,Photobug,Argentina,n/a
+274,Browsecat,France,Technology
+275,Dabvine,Brazil,n/a
+276,Thoughtsphere,Argentina,Technology
+277,Lazz,Netherlands,Transportation
+278,Camimbo,Russia,Public Utilities
+279,Zava,Russia,Consumer Services
+280,Devbug,Portugal,Basic Industries
+281,Linklinks,Russia,n/a
+282,Youopia,Brazil,Public Utilities
+283,Fivespan,Australia,Basic Industries
+284,Youspan,Russia,n/a
+285,Nlounge,Portugal,Technology
+286,Rhyzio,Brazil,Health Care
+287,Tagfeed,Saudi Arabia,n/a
+288,Minyx,Sweden,Finance
+289,Topdrive,France,n/a
+290,Linkbuzz,Brazil,Consumer Services
+291,Tagchat,Brazil,Finance
+292,Brainlounge,Brazil,n/a
+293,Layo,Russia,Public Utilities
+294,Brainsphere,Brazil,Consumer Services
+295,Yodel,Argentina,Energy
+296,Jayo,Brazil,Technology
+297,Youspan,Russia,Finance
+298,Demimbu,Argentina,n/a
+299,Mudo,Brazil,Technology
+300,Quinu,Sweden,n/a
+301,Rhycero,France,Capital Goods
+302,Dabvine,Russia,Basic Industries
+303,Kwideo,Canada,Energy
+304,Zoombox,Portugal,Consumer Non-Durables
+305,Meevee,Sweden,Health Care
+306,Babbleset,Brazil,n/a
+307,Mynte,Argentina,n/a
+308,Eabox,Bahrain,Consumer Services
+309,Bubblebox,Sweden,n/a
+310,Browsezoom,Portugal,Finance
+311,Abatz,Russia,n/a
+312,Gabtune,Portugal,Miscellaneous
+313,Voomm,Russia,Consumer Services
+314,Ainyx,Netherlands,n/a
+315,Wordtune,Sweden,Health Care
+316,Reallinks,United States,Public Utilities
+317,Aimbu,Argentina,Consumer Services
+318,Katz,United States,n/a
+319,Wikizz,Brazil,Finance
+320,Skalith,Portugal,Consumer Durables
+321,Katz,Portugal,Consumer Services
+322,Cogibox,United States,Finance
+323,Browsetype,United States,Consumer Services
+324,Shuffletag,United States,Consumer Services
+325,Zoovu,Brazil,Consumer Durables
+326,Gabspot,Mexico,Capital Goods
+327,Bubblemix,Canada,Health Care
+328,Browsecat,Portugal,n/a
+329,Kazu,United States,Health Care
+330,Aimbu,Portugal,Consumer Services
+331,Jabbersphere,Russia,Energy
+332,Latz,United States,Finance
+333,Livepath,Portugal,Technology
+334,Talane,Brazil,Consumer Services
+335,Feedfire,Portugal,Technology
+336,Zoomlounge,Brazil,n/a
+337,Pixonyx,Kenya,Finance
+338,Skivee,United States,Health Care
+339,Demimbu,Russia,Health Care
+340,Feedfire,Brazil,n/a
+341,Kwinu,Japan,Health Care
+342,DabZ,Portugal,Finance
+343,Trilia,Argentina,Health Care
+344,Thoughtstorm,Mexico,Capital Goods
+345,Quinu,United States,n/a
+346,Jaxnation,Italy,n/a
+347,Jatri,Brazil,Health Care
+348,Oyope,Brazil,Consumer Services
+349,Oloo,United States,Finance
+350,Kare,Portugal,Energy
+351,Trudoo,Russia,Health Care
+352,Quinu,Sweden,Energy
+353,Meembee,France,n/a
+354,Jabbercube,Russia,n/a
+355,Quatz,Japan,Health Care
+356,Pixonyx,Argentina,Public Utilities
+357,Realcube,Malaysia,Public Utilities
+358,Dynava,Canada,n/a
+359,Kazu,Mexico,Technology
+360,Buzzbean,Mexico,Finance
+361,Mynte,Russia,Technology
+362,Nlounge,Japan,Basic Industries
+363,Gigazoom,United States,Consumer Durables
+364,Zoonder,Russia,Capital Goods
+365,Eire,Brazil,Consumer Services
+366,Fadeo,United States,Basic Industries
+367,Quinu,Portugal,n/a
+368,Lazzy,Russia,Consumer Services
+369,Devpoint,Portugal,Basic Industries
+370,Geba,Japan,Miscellaneous
+371,Bubblemix,Sweden,Public Utilities
+372,Youtags,Russia,Capital Goods
+373,Devpulse,Portugal,n/a
+374,Voolia,Japan,Consumer Durables
+375,Edgepulse,Portugal,Health Care
+376,Oyope,Mexico,n/a
+377,Oloo,Russia,n/a
+378,Babbleopia,France,Basic Industries
+379,Topiczoom,Russia,Consumer Services
+380,Dynava,Portugal,n/a
+381,Eayo,United States,n/a
+382,Shuffledrive,Russia,Health Care
+383,Pixoboo,Italy,Technology
+384,Kazu,Russia,Finance
+385,Skinder,Brazil,Health Care
+386,Mydo,France,Consumer Services
+387,Devbug,Portugal,Energy
+388,Twinder,Sweden,Finance
+389,BlogXS,Canada,Technology
+390,Layo,Brazil,Consumer Services
+391,Centizu,Malaysia,Consumer Services
+392,Divavu,Brazil,Health Care
+393,Fivebridge,United States,Finance
+394,Leexo,France,Consumer Durables
+395,Digitube,Russia,Finance
+396,Minyx,Sweden,n/a
+397,Digitube,Japan,Transportation
+398,DabZ,Russia,n/a
+399,Trudeo,Russia,n/a
+400,Thoughtsphere,Mexico,Consumer Non-Durables
+401,Babbleset,France,n/a
+402,Oyope,France,Consumer Services
+403,Brainbox,Russia,n/a
+404,Linktype,Japan,Health Care
+405,Jamia,Japan,Miscellaneous
+406,Gabspot,Canada,Capital Goods
+407,Skinix,France,Energy
+408,Abatz,Russia,Consumer Non-Durables
+409,Feedspan,Brazil,Finance
+410,Gabtype,Netherlands,Finance
+411,Yabox,United States,Health Care
+412,Rhycero,Kenya,n/a
+413,Trudeo,Portugal,n/a
+414,Camido,Russia,Health Care
+415,Zava,Argentina,Finance
+416,Realpoint,Japan,Consumer Services
+417,Leexo,Russia,Finance
+418,Kwideo,France,Consumer Services
+419,Youopia,Russia,Technology
+420,Browsezoom,Japan,n/a
+421,Tazz,United States,n/a
+422,Gigaclub,Russia,Capital Goods
+423,Thoughtbeat,Sweden,Technology
+424,Jazzy,Russia,Consumer Services
+425,Gigashots,Sweden,Capital Goods
+426,Fivespan,Portugal,Finance
+427,Demizz,Denmark,Public Utilities
+428,Jabberbean,Sweden,Consumer Durables
+429,Podcat,Sweden,Technology
+430,Dynabox,Japan,Health Care
+431,Linkbridge,Japan,Technology
+432,Meeveo,Argentina,Finance
+433,Digitube,Brazil,n/a
+434,Twitterbridge,France,n/a
+435,JumpXS,Russia,Basic Industries
+436,Lazz,France,Basic Industries
+437,Eadel,Russia,Basic Industries
+438,Browsedrive,Argentina,Health Care
+439,Twimbo,France,Consumer Services
+440,Gabtune,Japan,Basic Industries
+441,Quinu,United States,Technology
+442,Realcube,United States,Consumer Services
+443,Twinte,United States,Finance
+444,Kaymbo,Sweden,Public Utilities
+445,Oloo,Brazil,n/a
+446,Photobug,Brazil,n/a
+447,Reallinks,Portugal,Consumer Services
+448,Trudeo,Portugal,Finance
+449,Katz,Brazil,Consumer Services
+450,Riffpedia,Portugal,n/a
+451,Livetube,Brazil,n/a
+452,Centizu,United States,Capital Goods
+453,Muxo,Brazil,Public Utilities
+454,Topicshots,Russia,n/a
+455,Meevee,United States,n/a
+456,Mudo,Sweden,Finance
+457,Tagtune,Portugal,n/a
+458,Devpoint,Brazil,Finance
+459,Browsedrive,Brazil,Consumer Services
+460,Yotz,Portugal,n/a
+461,Quimba,Mexico,Consumer Services
+462,Skilith,Mexico,Public Utilities
+463,Yodoo,France,Consumer Services
+464,Mycat,Portugal,Health Care
+465,Rhyzio,Russia,Finance
+466,Skalith,Russia,Health Care
+467,Tagcat,Russia,Health Care
+468,Dynabox,United Arab Emirates,Consumer Services
+469,Chatterpoint,Brazil,Capital Goods
+470,Innotype,Japan,Consumer Services
+471,Trupe,Portugal,Consumer Non-Durables
+472,Innotype,Sweden,Miscellaneous
+473,Livepath,Brazil,n/a
+474,Jatri,Brazil,Health Care
+475,Wikibox,Portugal,Basic Industries
+476,Zooveo,Argentina,Finance
+477,Livepath,Russia,n/a
+478,Tazzy,Portugal,n/a
+479,Livefish,Russia,Finance
+480,Trudeo,Portugal,Technology
+481,Riffpath,France,Health Care
+482,Realcube,Portugal,Technology
+483,Gabvine,Mexico,n/a
+484,Zoonoodle,Brazil,n/a
+485,Minyx,Russia,Health Care
+486,Blogpad,Russia,Technology
+487,Mycat,Argentina,n/a
+488,Thoughtworks,Japan,Finance
+489,Quimm,Australia,Basic Industries
+490,Zoombox,Portugal,n/a
+491,Fatz,Canada,n/a
+492,Wordware,Russia,n/a
+493,Innotype,Brazil,Finance
+494,DabZ,Russia,Health Care
+495,Tanoodle,Russia,Basic Industries
+496,Flashpoint,Portugal,Technology
+497,Realcube,Canada,Health Care
+498,Lajo,Russia,n/a
+499,DabZ,France,Finance
+500,Eidel,Russia,Technology
+501,Skiba,Norway,Finance
+502,Zoovu,Mexico,Consumer Services
+503,Brainverse,Russia,Finance
+504,Jayo,France,Consumer Services
+505,Demizz,Portugal,Consumer Services
+506,Gabspot,Brazil,Consumer Non-Durables
+507,Dabfeed,Brazil,Health Care
+508,Oodoo,Brazil,Miscellaneous
+509,Demivee,Canada,Technology
+510,Eimbee,United States,Public Utilities
+511,Jaxbean,Argentina,Consumer Non-Durables
+512,Agimba,Canada,Health Care
+513,Twitterlist,Russia,n/a
+514,Jaloo,Denmark,Technology
+515,Oyoba,Sweden,Technology
+516,Avamba,Sweden,n/a
+517,Blogspan,Sweden,n/a
+518,Skimia,Portugal,Public Utilities
+519,InnoZ,Brazil,Technology
+520,Realpoint,Russia,Consumer Services
+521,Blogtags,Sweden,Health Care
+522,Oyondu,Brazil,Consumer Durables
+523,Camimbo,Russia,n/a
+524,Yabox,France,Basic Industries
+525,Oyope,United States,n/a
+526,Brainverse,Canada,Consumer Services
+527,Feedfire,Sweden,Technology
+528,Npath,Netherlands,Finance
+529,Lajo,Japan,Energy
+530,Digitube,Russia,Finance
+531,Youfeed,Sweden,n/a
+532,Jabberstorm,Russia,Miscellaneous
+533,Divavu,Brazil,n/a
+534,Jamia,United States,n/a
+535,Skippad,Russia,Technology
+536,Voonte,Russia,Consumer Services
+537,Jabbersphere,Norway,Basic Industries
+538,Zoonder,France,Health Care
+539,Babblestorm,Sweden,Miscellaneous
+540,Twitterwire,Russia,Energy
+541,Gabtune,United States,Health Care
+542,Thoughtstorm,Brazil,Capital Goods
+543,Buzzbean,Mexico,Finance
+544,Yambee,Brazil,n/a
+545,Zava,France,Health Care
+546,Jabbercube,Russia,n/a
+547,Yodo,Sweden,Technology
+548,Rhycero,Brazil,n/a
+549,Realpoint,Russia,n/a
+550,Yodel,United States,Technology
+551,Rhynoodle,Malaysia,Consumer Services
+552,Twimbo,Russia,Energy
+553,Buzzdog,Russia,Consumer Services
+554,Babbleblab,Brazil,Miscellaneous
+555,Topiclounge,Portugal,Consumer Non-Durables
+556,Fadeo,Brazil,n/a
+557,Yacero,Portugal,n/a
+558,Skimia,Russia,n/a
+559,Chatterbridge,Canada,Finance
+560,DabZ,Brazil,n/a
+561,Skaboo,Russia,Health Care
+562,Trupe,France,Finance
+563,Lajo,Brazil,Capital Goods
+564,Eire,Russia,Miscellaneous
+565,Jaloo,Canada,Health Care
+566,Jabbersphere,Sweden,Finance
+567,Zooxo,Norway,n/a
+568,Voonder,Portugal,Basic Industries
+569,Gigaclub,Malaysia,Health Care
+570,Vipe,Portugal,Energy
+571,Ainyx,Brazil,Capital Goods
+572,Quaxo,Russia,Consumer Services
+573,Quatz,Brazil,Finance
+574,Brainbox,Mexico,Health Care
+575,Teklist,Canada,n/a
+576,Edgewire,Russia,Public Utilities
+577,Vidoo,Portugal,n/a
+578,Snaptags,Malaysia,n/a
+579,Browsebug,Brazil,Capital Goods
+580,Skyvu,United States,Technology
+581,Yoveo,Russia,Energy
+582,Realfire,Russia,Health Care
+583,Flashdog,Malaysia,Public Utilities
+584,Riffwire,Argentina,n/a
+585,Dabvine,Argentina,Finance
+586,Skinte,United States,Consumer Services
+587,Roomm,United States,Consumer Services
+588,Tekfly,Sweden,Basic Industries
+589,Aivee,France,Technology
+590,Edgewire,Sweden,n/a
+591,Dabshots,Brazil,n/a
+592,Tekfly,Brazil,Consumer Services
+593,Skidoo,Portugal,Consumer Non-Durables
+594,Yodoo,Japan,n/a
+595,Skinix,Mexico,Transportation
+596,Kimia,Portugal,Technology
+597,Reallinks,Russia,Basic Industries
+598,Eare,Portugal,n/a
+599,Dabshots,United States,Health Care
+600,Flashset,Argentina,Consumer Services
+601,Devify,Portugal,Finance
+602,Tagopia,Russia,Technology
+603,Riffpath,United States,Transportation
+604,Demimbu,Mexico,Finance
+605,Twitterwire,France,n/a
+606,Youtags,Jamaica,n/a
+607,Demizz,Japan,Consumer Services
+608,Skajo,Brazil,Consumer Services
+609,Meedoo,United States,Consumer Non-Durables
+610,Blogspan,United States,Consumer Services
+611,Photobug,Portugal,Miscellaneous
+612,Eimbee,Mexico,Health Care
+613,Thoughtblab,United States,Consumer Services
+614,Feedbug,Russia,Basic Industries
+615,Yacero,Netherlands,n/a
+616,Skajo,Russia,Miscellaneous
+617,Kazio,Netherlands,Health Care
+618,Eidel,Portugal,Consumer Services
+619,Gevee,Russia,Public Utilities
+620,Roodel,Russia,Consumer Durables
+621,Photojam,Russia,Consumer Services
+622,Skyble,Sweden,n/a
+623,Fivespan,United States,n/a
+624,Miboo,Brazil,Public Utilities
+625,Wikizz,Russia,Finance
+626,DabZ,Russia,Health Care
+627,Skiba,Portugal,Basic Industries
+628,Skynoodle,Brazil,Finance
+629,Tazzy,Italy,n/a
+630,Dabshots,Norway,Capital Goods
+631,Yabox,Russia,Capital Goods
+632,Jabberstorm,Brazil,Technology
+633,Plambee,Italy,n/a
+634,Wikivu,France,Capital Goods
+635,Chatterpoint,Russia,Technology
+636,Demizz,France,Consumer Services
+637,Dynazzy,Russia,Consumer Services
+638,Browsecat,Russia,Public Utilities
+639,Trudoo,Russia,Basic Industries
+640,Feedspan,France,Finance
+641,Kwimbee,Russia,Technology
+642,Skipstorm,Japan,n/a
+643,Jayo,Brazil,Finance
+644,Yadel,Russia,Consumer Services
+645,Viva,Russia,Miscellaneous
+646,Livetube,Canada,Finance
+647,Flashpoint,Norway,Capital Goods
+648,Riffpedia,Brazil,Finance
+649,Zoonoodle,Portugal,n/a
+650,Zoonoodle,Brazil,Basic Industries
+651,Realcube,Russia,Technology
+652,Voonte,Argentina,Health Care
+653,Flipstorm,France,Health Care
+654,Edgeclub,Mexico,Consumer Services
+655,Einti,Canada,Public Utilities
+656,Topicblab,Japan,Consumer Services
+657,Flipstorm,Russia,Consumer Services
+658,Kare,Bahamas,n/a
+659,Ainyx,Netherlands,Consumer Non-Durables
+660,Brainsphere,Russia,Consumer Services
+661,Skyndu,Sweden,Energy
+662,Blogpad,United States,Finance
+663,Kaymbo,Portugal,n/a
+664,Quinu,Brazil,n/a
+665,Meeveo,Malaysia,Consumer Services
+666,Wordpedia,Mexico,Public Utilities
+667,Skibox,Sweden,Basic Industries
+668,Zoozzy,Japan,Transportation
+669,Feedspan,Argentina,Public Utilities
+670,Lazzy,Brazil,Public Utilities
+671,Gigaclub,Portugal,n/a
+672,Ozu,France,Finance
+673,Avavee,Jamaica,Basic Industries
+674,Rhyloo,Argentina,n/a
+675,Avavee,Portugal,Health Care
+676,Ozu,Russia,n/a
+677,Thoughtworks,United States,Technology
+678,Youopia,Brazil,Technology
+679,Vipe,Norway,n/a
+680,Skajo,Russia,Consumer Durables
+681,Linktype,Japan,Health Care
+682,Flashset,Portugal,Capital Goods
+683,Jazzy,Sweden,Health Care
+684,Pixonyx,Russia,Energy
+685,Shuffletag,Portugal,Energy
+686,Jatri,Russia,n/a
+687,Oyoba,Portugal,n/a
+688,Brainbox,Portugal,n/a
+689,Vipe,Sweden,Finance
+690,Teklist,Portugal,n/a
+691,Twimm,Russia,n/a
+692,Bubblebox,France,Basic Industries
+693,Buzzshare,Sweden,Energy
+694,Blogpad,Sweden,n/a
+695,Trilith,France,Consumer Non-Durables
+696,Tagchat,Russia,Technology
+697,Buzzdog,Mexico,Capital Goods
+698,Browsedrive,Japan,Finance
+699,Fivechat,Japan,n/a
+700,Skinix,Sweden,Consumer Services
+701,Jabberbean,Republic of the Congo,n/a
+702,Voomm,United Kingdom,n/a
+703,Thoughtbeat,United States,Miscellaneous
+704,Vitz,Brazil,Consumer Non-Durables
+705,Yodel,Portugal,Consumer Non-Durables
+706,Trilith,Netherlands,Consumer Services
+707,Zoomcast,Russia,Consumer Services
+708,Edgewire,Canada,Health Care
+709,Fadeo,Sweden,Consumer Services
+710,Leexo,Portugal,Finance
+711,Plajo,Russia,Health Care
+712,Oyoba,Portugal,Finance
+713,Linklinks,Japan,Finance
+714,Lajo,Netherlands,Basic Industries
+715,Cogidoo,Russia,Consumer Durables
+716,Mydo,United States,n/a
+717,Agivu,Brazil,Finance
+718,Roombo,Portugal,Technology
+719,Blogtags,Sweden,n/a
+720,Yozio,Portugal,Consumer Services
+721,Divape,Russia,Finance
+722,Shuffledrive,Argentina,Technology
+723,Quimm,Mexico,n/a
+724,Bluezoom,Sweden,Consumer Services
+725,Photobean,Portugal,Public Utilities
+726,Browsecat,Russia,Public Utilities
+727,Twitterworks,France,Technology
+728,Voonyx,United Kingdom,Finance
+729,Yata,Canada,Finance
+730,Edgeclub,Argentina,Technology
+731,Dabjam,Russia,Finance
+732,Fivechat,Russia,Capital Goods
+733,Jabbertype,France,Consumer Non-Durables
+734,Feedspan,Mexico,Finance
+735,Roodel,Canada,n/a
+736,Yozio,France,n/a
+737,Skibox,Sweden,Consumer Services
+738,Yakitri,Brazil,n/a
+739,Blogtag,Russia,Consumer Services
+740,Devpoint,Argentina,Basic Industries
+741,Shuffledrive,Argentina,n/a
+742,Eadel,France,Technology
+743,Eidel,France,Technology
+744,Yodo,Sweden,Health Care
+745,Mymm,Canada,Technology
+746,Demizz,Russia,n/a
+747,Mynte,Russia,Finance
+748,Brightdog,Russia,n/a
+749,Tagopia,Brazil,Finance
+750,Mita,Russia,n/a
+751,Tekfly,Argentina,Health Care
+752,Ailane,France,Finance
+753,Thoughtblab,Sweden,Health Care
+754,Shufflester,Japan,Basic Industries
+755,Topicshots,Brazil,Capital Goods
+756,Vinte,Russia,n/a
+757,Chatterpoint,Brazil,Capital Goods
+758,Kazu,Portugal,Technology
+759,Thoughtstorm,Brazil,n/a
+760,Devshare,Mexico,Basic Industries
+761,Bluezoom,Portugal,Technology
+762,Jetwire,Portugal,Consumer Services
+763,Omba,Argentina,n/a
+764,Photobean,Russia,Technology
+765,Oloo,Russia,Capital Goods
+766,Eamia,Russia,Consumer Non-Durables
+767,Youtags,France,n/a
+768,Meeveo,Russia,Technology
+769,Edgeblab,Portugal,Technology
+770,Flashset,Russia,Energy
+771,Dynava,Russia,n/a
+772,Vidoo,Brazil,Health Care
+773,Browsebug,France,Miscellaneous
+774,Midel,Netherlands,Consumer Services
+775,Devshare,Russia,Health Care
+776,Aimbu,Russia,Health Care
+777,Jabbersphere,Mexico,Finance
+778,Agimba,Portugal,Finance
+779,Jaxbean,United States,n/a
+780,Dynabox,Sweden,Health Care
+781,Gigashots,Russia,Consumer Services
+782,Flashspan,Brazil,Health Care
+783,Zava,United States,Technology
+784,Meejo,France,Finance
+785,Youopia,United States,Finance
+786,Kwideo,Portugal,Consumer Durables
+787,Zoomlounge,Portugal,n/a
+788,Wordtune,Brazil,Miscellaneous
+789,Trudoo,Russia,Consumer Services
+790,Wikivu,Mexico,Health Care
+791,Topiclounge,Sweden,Consumer Services
+792,Yombu,France,Health Care
+793,Brainverse,France,Finance
+794,Cogidoo,Japan,n/a
+795,Topiczoom,Brazil,Health Care
+796,BlogXS,Sweden,Energy
+797,Dabshots,Portugal,Basic Industries
+798,Photolist,Russia,Consumer Services
+799,Buzzshare,France,Miscellaneous
+800,Dynava,France,Consumer Durables
+801,Rhynyx,Canada,Public Utilities
+802,Trilia,Sweden,Health Care
+803,Thoughtblab,Russia,Consumer Services
+804,Livepath,Russia,Finance
+805,Blogtag,Russia,Consumer Services
+806,Devpoint,Russia,Health Care
+807,Mydo,Sweden,Basic Industries
+808,Yambee,Russia,Miscellaneous
+809,Zoombox,France,Health Care
+810,Ooba,Brazil,Energy
+811,Jetpulse,United States,Health Care
+812,Divape,Russia,Consumer Services
+813,Ntag,Brazil,Finance
+814,Brainlounge,Portugal,Energy
+815,Twitterbridge,Saudi Arabia,Finance
+816,Rhycero,France,n/a
+817,Edgepulse,France,n/a
+818,Topiczoom,Russia,Capital Goods
+819,Devbug,Russia,Finance
+820,Riffpedia,Russia,Health Care
+821,Voonte,Japan,Technology
+822,Gabspot,Mexico,n/a
+823,Dynabox,Mexico,Consumer Services
+824,Centimia,Norway,Finance
+825,Nlounge,France,Consumer Services
+826,Katz,Brazil,n/a
+827,Brainbox,Mexico,Consumer Services
+828,Tazzy,Canada,Public Utilities
+829,Snaptags,Portugal,n/a
+830,Gabspot,Jamaica,Technology
+831,Skibox,Russia,Energy
+832,Zoombeat,Kenya,Health Care
+833,Zoonoodle,Russia,Miscellaneous
+834,Twitterlist,Mexico,Finance
+835,Bubblemix,France,Health Care
+836,Wikido,Russia,Finance
+837,Browsedrive,Russia,Consumer Services
+838,Oyondu,Argentina,Consumer Services
+839,Fivechat,Japan,Finance
+840,Dabtype,United States,Finance
+841,Mudo,Russia,Energy
+842,Jaloo,Sweden,n/a
+843,Oyoba,Argentina,Public Utilities
+844,Wikizz,France,Energy
+845,Flashset,Brazil,n/a
+846,Zoomzone,Russia,Energy
+847,Jaxbean,Brazil,Finance
+848,Ntag,Japan,Consumer Services
+849,Topicstorm,France,Finance
+850,Topicshots,France,Basic Industries
+851,Jabberstorm,Canada,Health Care
+852,Browsezoom,France,n/a
+853,Skinix,Australia,Technology
+854,Jayo,Mexico,Consumer Services
+855,Realbuzz,Norway,Health Care
+856,Dabjam,Canada,Consumer Durables
+857,Shuffledrive,Kenya,Finance
+858,Zava,Portugal,Technology
+859,Tekfly,Mexico,Finance
+860,Photobean,Argentina,n/a
+861,Quimba,France,Consumer Services
+862,Gabcube,United States,Consumer Non-Durables
+863,Twitternation,Portugal,Health Care
+864,Zoovu,Russia,Consumer Services
+865,Feedfish,France,Technology
+866,Fanoodle,Sweden,n/a
+867,Fivebridge,Japan,Technology
+868,Innojam,Russia,n/a
+869,Skinte,United States,Technology
+870,Izio,Australia,Finance
+871,Browseblab,United States,Basic Industries
+872,Jetpulse,Brazil,n/a
+873,BlogXS,Japan,Finance
+874,Avavee,Brazil,Consumer Services
+875,Skyvu,Norway,n/a
+876,Jabbercube,Italy,Basic Industries
+877,Edgetag,Russia,Finance
+878,Aimbu,Republic of the Congo,Capital Goods
+879,Plambee,Japan,Finance
+880,Wordify,Argentina,Health Care
+881,Zooveo,Sweden,Health Care
+882,Brainsphere,Sweden,Technology
+883,Kanoodle,Russia,Consumer Services
+884,Yakitri,Russia,Technology
+885,Feedfish,Russia,Consumer Services
+886,Gabtype,Netherlands,Basic Industries
+887,Vipe,Norway,Public Utilities
+888,Meedoo,Russia,Capital Goods
+889,Kamba,Portugal,n/a
+890,Jabbertype,Sweden,Consumer Services
+891,Vimbo,Malaysia,Consumer Non-Durables
+892,Skinder,Portugal,n/a
+893,Snaptags,Sweden,n/a
+894,Edgeblab,Russia,n/a
+895,Digitube,Japan,Technology
+896,Eabox,Brazil,n/a
+897,Oyoloo,Portugal,Consumer Services
+898,Thoughtmix,Russia,Basic Industries
+899,Pixope,Canada,Technology
+900,Wordpedia,Russia,Finance
+901,Quinu,Brazil,n/a
+902,Omba,Sweden,n/a
+903,Skyvu,Brazil,Public Utilities
+904,Fadeo,Sweden,Technology
+905,Divavu,Argentina,Basic Industries
+906,Skaboo,Malaysia,Energy
+907,Aivee,Japan,Consumer Services
+908,Divavu,France,Public Utilities
+909,Chatterbridge,Canada,Miscellaneous
+910,Mynte,France,Capital Goods
+911,Layo,United States,Consumer Services
+912,Chatterpoint,Netherlands,n/a
+913,Voolith,Mexico,Technology
+914,Tagtune,France,n/a
+915,Gabvine,Portugal,Consumer Services
+916,Mybuzz,Japan,Basic Industries
+917,Zoonder,Russia,Health Care
+918,Linkbridge,Portugal,n/a
+919,Gigabox,Russia,Technology
+920,Youspan,Canada,Health Care
+921,Zoomlounge,Brazil,Energy
+922,Photospace,Russia,n/a
+923,Plambee,Russia,Basic Industries
+924,Divape,Sweden,Consumer Services
+925,Jaloo,Brazil,Finance
+926,Buzzbean,Russia,Miscellaneous
+927,Skinte,Russia,Technology
+928,Tekfly,Sweden,Technology
+929,Meemm,Russia,Finance
+930,Zazio,Malaysia,Consumer Non-Durables
+931,Realcube,France,Consumer Services
+932,Einti,France,n/a
+933,Jabberbean,Canada,Health Care
+934,Yotz,Portugal,Health Care
+935,Blognation,Canada,Consumer Services
+936,Photobug,Russia,Finance
+937,Vipe,Russia,n/a
+938,Yata,Argentina,n/a
+939,Oloo,Russia,Health Care
+940,Thoughtstorm,Japan,Health Care
+941,Janyx,Malaysia,Energy
+942,Meedoo,Russia,Capital Goods
+943,Meedoo,Brazil,Health Care
+944,Meedoo,Russia,Health Care
+945,Realcube,Japan,Capital Goods
+946,Dynabox,Portugal,Basic Industries
+947,Kanoodle,Argentina,Consumer Services
+948,Zoombeat,France,n/a
+949,Jabbertype,Sweden,n/a
+950,Linklinks,Mexico,Capital Goods
+951,Abata,Russia,Finance
+952,Kimia,Brazil,Technology
+953,Ozu,Sweden,n/a
+954,Avamba,France,n/a
+955,Bubblebox,Japan,n/a
+956,Rhyloo,Sweden,n/a
+957,Yotz,France,Finance
+958,Oyonder,France,Finance
+959,Blogtags,Russia,Energy
+960,Photolist,Japan,n/a
+961,Kwinu,Brazil,n/a
+962,Plajo,Russia,Finance
+963,Browsebug,France,Consumer Services
+964,Roombo,Brazil,Consumer Services
+965,LiveZ,Russia,Health Care
+966,Topiczoom,Argentina,Consumer Services
+967,Kare,Russia,Technology
+968,Photobug,United States,Public Utilities
+969,Edgepulse,Brazil,Consumer Non-Durables
+970,Lazzy,Canada,Consumer Services
+971,Skynoodle,Russia,Public Utilities
+972,Ooba,Portugal,Consumer Non-Durables
+973,Photobug,Portugal,Health Care
+974,Latz,Japan,Health Care
+975,Dynabox,Russia,n/a
+976,Twitterbeat,Portugal,Technology
+977,Quire,Brazil,Energy
+978,Skyndu,Netherlands,Consumer Services
+979,Jaxworks,Kenya,Health Care
+980,Roomm,Russia,Consumer Non-Durables
+981,Vimbo,Japan,Consumer Services
+982,Tambee,Russia,Finance
+983,Photobean,Russia,Finance
+984,Rhybox,Russia,Finance
+985,Vinder,United States,Finance
+986,Quatz,Russia,Finance
+987,Flipopia,Canada,Finance
+988,Realblab,Japan,Finance
+989,Fanoodle,Japan,Health Care
+990,Youspan,Brazil,Finance
+991,Wordify,Russia,Basic Industries
+992,Jamia,United Kingdom,n/a
+993,Zooveo,Brazil,Technology
+994,Fiveclub,Brazil,Finance
+995,Wordify,Russia,Transportation
+996,Mudo,Brazil,Energy
+997,Skinix,Kenya,n/a
+998,Vinte,Kenya,Energy
+999,Jaxworks,Portugal,Consumer Services
+1000,Tagchat,Russia,Finance
